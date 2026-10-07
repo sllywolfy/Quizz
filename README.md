@@ -1,6 +1,6 @@
 # Quizz
 
-A fast-paced memory card quiz game built with Python and Pygame based on *Epic: The Musical*. Test your knowledge of the songs, characters, and lore through interactive question-and-answer cards!
+A fast-paced memory card quiz game built with Python and Pyqt5 based on *Epic: The Musical*. Test your knowledge of the songs, characters, and lore through interactive question-and-answer cards!
 
 
 ## ✨ Features
@@ -11,10 +11,10 @@ A fast-paced memory card quiz game built with Python and Pygame based on *Epic: 
 
 ## 🛠️ Requirements & Setup
 
-If running from Python source code, install Pygame first:
+If running from Python source code, install Pyqt5 first:
 
 ```bash
-pip install pygame
+pip install pyqt5
 
 ```
 
